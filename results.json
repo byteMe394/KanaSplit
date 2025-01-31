@@ -1,0 +1,225 @@
+{
+    "tokens": [
+        {
+            "surface": "私",
+            "pos": "名詞",
+            "sub_pos": "代名詞",
+            "conjugation_type": "*",
+            "conjugation_form": "*",
+            "base_form": "私",
+            "reading": "ワタシ",
+            "pronunciation": "ワタシ"
+        },
+        {
+            "surface": "は",
+            "pos": "助詞",
+            "sub_pos": "係助詞",
+            "conjugation_type": "*",
+            "conjugation_form": "*",
+            "base_form": "は",
+            "reading": "ハ",
+            "pronunciation": "ワ"
+        },
+        {
+            "surface": "お",
+            "pos": "接頭詞",
+            "sub_pos": "名詞接続",
+            "conjugation_type": "*",
+            "conjugation_form": "*",
+            "base_form": "お",
+            "reading": "オ",
+            "pronunciation": "オ"
+        },
+        {
+            "surface": "寿司",
+            "pos": "名詞",
+            "sub_pos": "一般",
+            "conjugation_type": "*",
+            "conjugation_form": "*",
+            "base_form": "寿司",
+            "reading": "スシ",
+            "pronunciation": "スシ"
+        },
+        {
+            "surface": "を",
+            "pos": "助詞",
+            "sub_pos": "格助詞",
+            "conjugation_type": "*",
+            "conjugation_form": "*",
+            "base_form": "を",
+            "reading": "ヲ",
+            "pronunciation": "ヲ"
+        },
+        {
+            "surface": "食べ",
+            "pos": "動詞",
+            "sub_pos": "自立",
+            "conjugation_type": "一段",
+            "conjugation_form": "連用形",
+            "base_form": "食べる",
+            "reading": "タベ",
+            "pronunciation": "タベ"
+        },
+        {
+            "surface": "たい",
+            "pos": "助動詞",
+            "sub_pos": "*",
+            "conjugation_type": "特殊・タイ",
+            "conjugation_form": "基本形",
+            "base_form": "たい",
+            "reading": "タイ",
+            "pronunciation": "タイ"
+        },
+        {
+            "surface": "です",
+            "pos": "助動詞",
+            "sub_pos": "*",
+            "conjugation_type": "特殊・デス",
+            "conjugation_form": "基本形",
+            "base_form": "です",
+            "reading": "デス",
+            "pronunciation": "デス"
+        },
+        {
+            "surface": "。",
+            "pos": "記号",
+            "sub_pos": "句点",
+            "conjugation_type": "*",
+            "conjugation_form": "*",
+            "base_form": "。",
+            "reading": "。",
+            "pronunciation": "。"
+        }
+    ],
+    "word_data": {
+        "寿司": {
+            "word": "寿司",
+            "reading": "すし",
+            "meanings": [
+                [
+                    "sushi",
+                    "range of dishes made with vinegared rice combined with fish, vegetables, egg, etc."
+                ],
+                [
+                    "Sushi"
+                ]
+            ]
+        },
+        "お": {
+            "word": "尾",
+            "reading": "お",
+            "meanings": [
+                [
+                    "tail (of an animal)",
+                    "cauda"
+                ],
+                [
+                    "tail (of a kite, etc.)",
+                    "tail end"
+                ],
+                [
+                    "tail (of a comet)"
+                ],
+                [
+                    "slope at the foot of a mountain"
+                ],
+                [
+                    "O"
+                ],
+                [
+                    "Tail"
+                ]
+            ]
+        },
+        "です": {
+            "word": "です",
+            "reading": "です",
+            "meanings": [
+                [
+                    "be",
+                    "is"
+                ]
+            ]
+        },
+        "を": {
+            "word": "を",
+            "reading": "を",
+            "meanings": [
+                [
+                    "indicates direct object of action"
+                ],
+                [
+                    "indicates subject of causative expression"
+                ],
+                [
+                    "indicates an area traversed"
+                ],
+                [
+                    "indicates time (period) over which action takes place"
+                ],
+                [
+                    "indicates point of departure or separation of action"
+                ],
+                [
+                    "indicates object of desire, like, hate, etc."
+                ],
+                [
+                    "Wo (kana)"
+                ]
+            ]
+        },
+        "。": {
+            "error": "No data found for '。'."
+        },
+        "食べ": {
+            "word": "食べ物",
+            "reading": "たべもの",
+            "meanings": [
+                [
+                    "food"
+                ]
+            ]
+        },
+        "たい": {
+            "word": "鯛",
+            "reading": "タイ",
+            "meanings": [
+                [
+                    "sea bream (esp. Pagrus major)",
+                    "porgy"
+                ],
+                [
+                    "Sparidae"
+                ]
+            ]
+        },
+        "私": {
+            "word": "私",
+            "reading": "わたし",
+            "meanings": [
+                [
+                    "I",
+                    "me"
+                ]
+            ]
+        },
+        "は": {
+            "word": "は",
+            "reading": "は",
+            "meanings": [
+                [
+                    "indicates sentence topic"
+                ],
+                [
+                    "indicates contrast with another option (stated or unstated)"
+                ],
+                [
+                    "adds emphasis"
+                ],
+                [
+                    "Ha (kana)"
+                ]
+            ]
+        }
+    }
+}

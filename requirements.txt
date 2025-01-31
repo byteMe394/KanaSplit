@@ -1,0 +1,8 @@
+# Rate limiting library
+ratelimit>=2.2,<3.0
+
+# Japanese tokenizer dependency
+MeCab>=0.996
+
+# HTTP requests library
+requests>=2.31.0
